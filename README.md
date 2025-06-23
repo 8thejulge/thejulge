@@ -30,7 +30,7 @@
 
 ## 🔗 배포 링크 
 
-👉 [thejulge15-8.vercel.app](https://thejulge15-8.vercel.app/)
+👉 [thejulge15-8.vercel.app]((https://thejulge-sooty.vercel.app/))
 
 
 ---
